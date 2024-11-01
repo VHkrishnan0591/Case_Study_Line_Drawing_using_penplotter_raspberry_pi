@@ -1,0 +1,6 @@
+logo_file:
+  path: static\THD_logo.jpg
+upload_image_folder:
+  path: static\upload_images
+processed_image_folder:
+  path: static\processed_images
